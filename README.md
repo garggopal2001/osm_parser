@@ -76,13 +76,13 @@ OpenStreetMap (OSM) is a collaborative project to create a free editable map of 
    Use the following command to compile the program:
 
    ```bash
-   g++ -std=c++11 osm_parser.cpp -o osm_parser
+   g++ -std=c++17 osm_parser.cpp -o osm_parser
    ```
 
    If `rapidxml.hpp` is in a different directory, include the path:
 
    ```bash
-   g++ -std=c++11 -I/path/to/rapidxml osm_parser.cpp -o osm_parser
+   g++ -std=c++17 -I/path/to/rapidxml osm_parser.cpp -o osm_parser
    ```
 
 ---
