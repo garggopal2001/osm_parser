@@ -16,7 +16,6 @@ This project is a C++ application that parses OpenStreetMap (OSM) data to extrac
   - [Use Case 2: Find K-Closest Nodes](#use-case-2-find-k-closest-nodes)
   - [Use Case 3: Shortest Path Between Nodes](#use-case-3-shortest-path-between-nodes)
 - [References](#references)
-- [License](#license)
 
 ---
 
@@ -63,8 +62,8 @@ OpenStreetMap (OSM) is a collaborative project to create a free editable map of 
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/your-username/osm-parser.git
-   cd osm-parser
+   git clone https://github.com/garggopal2001/osm_parser.git
+   cd osm_parser
    ```
 
 2. Obtain the Required Files:
@@ -109,7 +108,7 @@ Follow the on-screen prompts to interact with the application.
 **Example**:
 
 ```plaintext
-Enter a name to search for in nodes and ways: Library
+Enter a name to search for in nodes and ways: Kharagpur
 ```
 
 ---
@@ -157,7 +156,3 @@ Enter the destination node ID: 987654321
 - [OpenStreetMap](https://www.openstreetmap.org/)
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
